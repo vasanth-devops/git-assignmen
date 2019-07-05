@@ -18,6 +18,12 @@ public class Calculate
             System.out.println("Enter 3 for multiplication");
             System.out.println("Enter 4 for division");
             System.out.println("Enter 5 to Exit");
+System.out.println("Enter option");
+            System.out.println("Enter 1 for addition");
+            System.out.println("Enter 2 for subtraction");
+            System.out.println("Enter 3 for multiplication");
+            System.out.println("Enter 4 for division");
+            System.out.println("Enter 5 to Exit");
             opt = s.nextInt();
             switch(opt)
             {
