@@ -10,5 +10,6 @@ p = sc.nextInt(); //scan data for input of integer value
 q = sc.nextInt();
 r = p - q;
 System.out.println("substraction of entered integers = "+r);
+System.out.println("welcome");
 }
 }

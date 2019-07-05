@@ -12,6 +12,7 @@ public class Calculate
         n = s.nextInt();
         while(true)
         {
+            System.out.println("Enter option");
             System.out.println("Enter 1 for addition");
             System.out.println("Enter 2 for subtraction");
             System.out.println("Enter 3 for multiplication");
