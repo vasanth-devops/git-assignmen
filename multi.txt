@@ -1,0 +1,4 @@
+		
+
+		mul = m * n;
+		ystem.out.println("Result:"+mul);
